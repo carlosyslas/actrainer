@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+#header {
+    color: gray;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+#game {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+}
+
+#footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    background: lightgray;
+    padding: 20px;
+    margin-top: 80px;
+    max-width: 400px;
+    text-align: center;
+    font-size: 12px;
+}
